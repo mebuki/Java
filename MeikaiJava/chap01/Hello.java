@@ -4,4 +4,3 @@ class Hello {
     System.out.println("画面に出力しています");
   }
 }
-
